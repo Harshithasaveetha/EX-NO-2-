@@ -164,6 +164,8 @@ printf("%s ", encryptedPair);
 ```
 ## output:
 <img width="600" height="570" alt="Screenshot 2025-08-20 160118" src="https://github.com/user-attachments/assets/d36a43af-170d-45e9-9875-4d88fbdf8641" />
+
+
 ## result:
 C program to implement the Playfair Substitution technique executed sucessfully
 
